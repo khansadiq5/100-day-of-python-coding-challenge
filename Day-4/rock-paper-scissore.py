@@ -27,7 +27,7 @@ scissore = '''
 game_images = [rock, paper, scissore]
 user = int(input("What do you choose? Type 0 for rock, 1 for paper or 2 for scissore\n"))
 if user >= 3 or user < 0:
-    print("You type a invalid number, You Lose!") 
+    print("You type a invalid number,You Lose!") 
 else:     
     print(game_images[user])
     computer = random.randint(0, 2)
@@ -45,5 +45,5 @@ else:
         print("You Win!")           
     elif computer == user:
         print("Draw!")
-       
+
   
