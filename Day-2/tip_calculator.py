@@ -1,6 +1,6 @@
 print("Welcome to tip caclulator")
 
-bill = float(input("What was the total bill? ₹")) #
+bill = float(input("What was the total bill? ₹")) 
 
 tip = int(input("What percentage would you like to give as tip (couldn't write the '%' symbol, only the number.) eg 10, 12, 15? "))
 person= int(input("How many person to splite the bill? "))
