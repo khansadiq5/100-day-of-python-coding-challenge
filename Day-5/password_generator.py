@@ -27,9 +27,7 @@ random.shuffle(password_list)
 password_list = "".join(password_list)
 
 print(f"Your password is: {password_list}")
-# \SAIJFKWNFWORFNWORVNRWKO
-# dgornwognroivnrojgnrwvjonrwv
-# sdvnvsdjkvbwjvbw
+
 
 
 
