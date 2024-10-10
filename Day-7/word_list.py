@@ -37,10 +37,6 @@ words = [
     'book', 'notebook', 'bottle', 'cup', 'glass', 'plate', 'spoon', 'fork', 'television', 'clock', 
     'lamp', 'mirror', 'pillow', 'blanket', 'pencil', 'pen', 'eraser', 'backpack', 'wallet',
 
-    # Colors
-    'red', 'blue', 'green', 'yellow', 'orange', 'purple', 'pink', 'black', 'white', 'brown', 
-    'gray', 'turquoise', 'maroon', 'violet',
-
     # Sports and hobbies
     'soccer', 'basketball', 'tennis', 'baseball', 'cricket', 'hockey', 'golf', 'volleyball', 
     'swimming', 'running', 'cycling', 'badminton', 'chess', 'puzzle', 'drawing', 'painting', 

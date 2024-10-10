@@ -7,7 +7,6 @@ chosen_word = random.choice(word_list.words)
 print(hangman_arts.logo)
 lives = 6   
 
-# print(f"solution is {chosen_word}")
 #Create blank space
 display = ['_'] * len(chosen_word)
 print(display)
