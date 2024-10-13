@@ -6,7 +6,7 @@ def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 print(arts.logo)
-print("Welcome to the secret auction program.")
+print("Welcome to the secret auction program!")
 
 bids = {}
 bidding_finish = False
