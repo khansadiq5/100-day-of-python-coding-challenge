@@ -23,7 +23,6 @@ operations = {
     "*" : multiply,
     "/" : divide,
 }
-
 def calculator():
     print(logo)
     num1 = int(input("What's your first number: "))
